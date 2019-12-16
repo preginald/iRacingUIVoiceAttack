@@ -7,7 +7,8 @@ This VoiceAttack profile contains a number of voice commands that I use to quick
 
 It's very useful to me because I don't like to use the keyboard and mouse while I'm in VR.
 
-I'll link to a video where I demo an older version of these VoiceAttack commands.
+## Video Demonstration
+https://youtu.be/U9OAmTufW94
 
 ## Prerequisites
 1. Active iRacing account
