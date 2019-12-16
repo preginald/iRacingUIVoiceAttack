@@ -70,7 +70,7 @@ Links to download in YouTube description and this readme file.
 - Join - Joins a registered session. This also automatically clicks the Oculus Launch dialogue pop up for uninterrupted gameplay experience.
 
 ## Links
-- voiceattack.com
-- youtube.com/highness
-- twitch.tv/highness76
-- twitter.com/highnessracing
+- https://voiceattack.com
+- https://youtube.com/highness
+- https://twitch.tv/highness76
+- https://twitter.com/highnessracing
