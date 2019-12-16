@@ -17,8 +17,9 @@ I'll link to a video where I demo an older version of these VoiceAttack commands
 Links to download in YouTube description and this readme file.
 
 ## Instructions
-1. Unzip the downloaded file
-2. Import the vap file into a new or existing VoiceAttack profile
+1. Download the package from GitHub
+2. Unzip the downloaded file
+3. Import the vap file into a new or existing VoiceAttack profile
 
 ## List of commands
 
